@@ -1,4 +1,3 @@
-!москвич
 acura
 alfa
 aston
@@ -31,9 +30,9 @@ haima
 haval
 honda
 hummer
+hundai
 huyndai
 hyndai
-hundai
 infinity
 jac
 jaguar
@@ -74,5 +73,3 @@ tesla
 toyota
 volkswagen
 volvo
-ваз
-уаз
